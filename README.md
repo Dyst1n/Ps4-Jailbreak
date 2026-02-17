@@ -1,4 +1,4 @@
-# Dyst1n.github.io
+# Playstation 4 Jailbreak (v7.00 - v9.60)
 Playstation 4 Jailbreak
 
 Console	Firmware
